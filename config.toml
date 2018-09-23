@@ -1,0 +1,4 @@
+baseURL = "http://caelestinum.xyz/"
+languageCode = "en-us"
+title = "Josh Abraham"
+theme = "hyde-hyde"
