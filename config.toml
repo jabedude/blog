@@ -1,4 +1,13 @@
-baseURL = "http://caelestinum.xyz/"
+baseURL = "http://jabedude.github.io/"
 languageCode = "en-us"
 title = "Josh Abraham"
 theme = "hyde-hyde"
+
+[params]
+    themeColor = "theme-base-0c"
+[params.social]
+    twitter = "josh_avraham"
+    github = "jabedude"
+    gitlab = "jabedude"
+    stackoverflow = "5155574/josh-abraham"
+    linkedin = "joshua-abraham-24b671147"
