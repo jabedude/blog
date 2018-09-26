@@ -5,6 +5,7 @@ variables:
 
 pages:
   script:
+  - apt-get install -y ssh-client
   - hugo
   artifacts:
     paths:
